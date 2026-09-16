@@ -1,2 +1,3 @@
-# appdev-giancarlo-delacruz
-My first GitHub repository  for App Dev.
+Gian Carlo Pascasio Dela Cruz 
+BSIT-E BLK-E
+I HOPE TO FINISH OUR CAPSTONE PROJECT
